@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+pytest
+pytest-mock
+sqlalchemy
